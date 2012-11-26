@@ -1,7 +1,7 @@
 TimeSense
 =============
 
-JApplication to read data into Timestreams from SensePods. Developed as part of the [Relate project](http://horizab1.miniserver.com/relate/)
+Application to read data into Timestreams from SensePods. Developed as part of the [Relate project](http://horizab1.miniserver.com/relate/)
 
 Installation
 -----------
